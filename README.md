@@ -65,9 +65,9 @@ This project is released under the MIT License.
    ```bash
    https://python-poetry.org/docs/#installing-with-the-official-installer
    ```
-   # Linux installation command: curl -sSL https://install.python-poetry.org | python3 -
-   # maybe require to setup a path
-   # export PATH="/teamspace/studios/this_studio/.local/bin:$PATH"
+  Linux installation command: curl -sSL https://install.python-poetry.org | python3 -
+  maybe require to setup a path
+  export PATH="/teamspace/studios/this_studio/.local/bin:$PATH"
    ```bash
    poetry --version
    ```
@@ -80,8 +80,8 @@ This project is released under the MIT License.
    ```bash
    poetry lock
    ```
-  # Note Current Python version (3.10.10) is not allowed by the project (^3.10.0, <3.12, >=3.11.7).
-  # remove ", >=3.11.7" from pyproject.toml file python = "^3.10.0, <3.12" and the execute poetry lock again
+   Note Current Python version (3.10.10) is not allowed by the project (^3.10.0, <3.12, >=3.11.7).
+   remove ", >=3.11.7" from pyproject.toml file python = "^3.10.0, <3.12" and the execute poetry lock again
 5. Install the dependencies using Poetry:
    ```bash
    poetry install --no-root
