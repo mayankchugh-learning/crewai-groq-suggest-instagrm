@@ -238,3 +238,36 @@ The MarketingAnalysisTasks are a set of tasks that are executed by the Marketing
   - the last supper, with Jesus and his disciples, breaking bread, close shot, soft lighting, 4k, crisp
   - an bearded old man in the snows, using very warm clothing, with mountains full of snow behind him, soft lighting, 4k, crisp, close up to the camera
 * Your final answer must be 3 reviewed options of photographs, each with 1 paragraph description following the examples provided above.
+
+                                      +-----------------------+
+                                      |  MarketingAnalysis    |
+                                      |  Agents                |
+                                      +-----------------------+
+                                             |
+                                             |
+                                             v
+                                      +-----------------------+
+                                      |  product_competitor   |
+                                      |  strategy_planner     |
+                                      |  creative_content_creator|
+                                      |  senior_photographer   |
+                                      |  chief_creative_diretor |
+                                      +-----------------------+
+                                             |
+                                             |
+                                             v
+                                      +-----------------------+
+                                      |  MarketingAnalysis    |
+                                      |  Tasks                |
+                                      +-----------------------+
+                                             |
+                                             |
+                                             v
+                                      +-----------------------+
+                                      |  product_analysis     |
+                                      |  competitor_analysis  |
+                                      |  campaign_development |
+                                      |  instagram_ad_copy     |
+                                      |  take_photograph_task  |
+                                      |  review_photo         |
+                                      +-----------------------+
