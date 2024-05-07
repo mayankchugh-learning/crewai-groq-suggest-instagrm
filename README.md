@@ -92,7 +92,6 @@ This project is released under the MIT License.
    ```bash
    python main.py
    ```
-2. Access the application in your web browser at `http://localhost:5000/`.
 
 
 Here is the write-up for the MarketingAnalysisAgents and MarketingAnalysisTasks from the README.md file of the CrewAI-GROQ-Suggest-Instagrm project:
@@ -150,7 +149,8 @@ The MarketingAnalysisTasks are a set of tasks that are executed by the Marketing
 ### 6. Review Photo
 * Task: Review the photographs taken by the Senior Photographer Agent and ensure they are aligned with the product's goals.
 
-# MarketingAnalysisAgents
+----------- ---------------- --------------- -------------
+**MarketingAnalysisAgents**
 
 ## product_competitor_agent
 ### role="Lead Market Analyst",
@@ -178,7 +178,7 @@ The MarketingAnalysisTasks are a set of tasks that are executed by the Marketing
 ### goal="Oversee the work done by your team to make sure it's the best possible and aligned with the product's goals, review, approve, ask clarifying question or delegate follow up work if necessary to make decisions"
 ### backstory="You're the Chief Content Officer of leading digital marketing specialized in product branding. You're working on a new customer, trying to make sure your team is crafting the best possible content for the customer."
 
-# MarketingAnalysisTasks
+**MarketingAnalysisTasks**
 
 ## product_analysis: agent, product_website, product_details
 ### Task: Analyze the given product website: {product_website}. Extra details provided by the customer: {product_details}. 
