@@ -95,6 +95,61 @@ This project is released under the MIT License.
 2. Access the application in your web browser at `http://localhost:5000/`.
 
 
+Here is the write-up for the MarketingAnalysisAgents and MarketingAnalysisTasks from the README.md file of the CrewAI-GROQ-Suggest-Instagrm project:
+
+**MarketingAnalysisAgents**
+==========================
+
+The MarketingAnalysisAgents are a set of role-playing AI agents that work together to provide a comprehensive analysis and recommendation for an Instagram post. The agents are:
+
+### 1. Product Competitor Agent
+* Role: Lead Market Analyst
+* Goal: Conduct amazing analysis of the products and competitors, providing in-depth insights to guide marketing strategies.
+* Backstory: As the Lead Market Analyst at a premier digital marketing firm, you specialize in dissecting online business landscapes.
+
+### 2. Strategy Planner Agent
+* Role: Chief Marketing Strategist
+* Goal: Synthesize amazing insights from product analysis to formulate incredible marketing strategies.
+* Backstory: You are the Chief Marketing Strategist at a leading digital marketing agency, known for crafting bespoke strategies that drive success.
+
+### 3. Creative Content Creator Agent
+* Role: Creative Content Creator
+* Goal: Develop compelling and innovative content for social media campaigns, with a focus on creating high-impact Instagram ad copies.
+* Backstory: As a Creative Content Creator at a top-tier digital marketing agency, you excel in crafting narratives that resonate with audiences on social media.
+
+### 4. Senior Photographer Agent
+* Role: Senior Photographer
+* Goal: Take the most amazing photographs for Instagram ads that capture emotions and convey a compelling message.
+* Backstory: As a Senior Photographer at a leading digital marketing agency, you are an expert at taking amazing photographs that inspire and engage.
+
+### 5. Chief Creative Director Agent
+* Role: Chief Creative Director
+* Goal: Oversee the work done by your team to make sure it's the best possible and aligned with the product's goals.
+* Backstory: You're the Chief Content Officer of leading digital marketing specialized in product branding.
+
+**MarketingAnalysisTasks**
+==========================
+
+The MarketingAnalysisTasks are a set of tasks that are executed by the MarketingAnalysisAgents. The tasks are:
+
+### 1. Product Analysis
+* Task: Analyze the given product website and provide a comprehensive report on the product's key selling points, market appeal, and suggestions for enhancement or positioning.
+
+### 2. Competitor Analysis
+* Task: Explore the top 3 competitors of the product and analyze their strategies, market positioning, and customer perception.
+
+### 3. Campaign Development
+* Task: Develop a targeted marketing campaign for the product, including a strategy and creative content ideas.
+
+### 4. Instagram Ad Copy
+* Task: Craft an engaging Instagram post copy that highlights the product's unique selling points and resonates with the target audience.
+
+### 5. Take Photograph Task
+* Task: Take the most amazing photograph for an Instagram post regarding the product, based on the provided copy and product details.
+
+### 6. Review Photo
+* Task: Review the photographs taken by the Senior Photographer Agent and ensure they are aligned with the product's goals.
+
 # MarketingAnalysisAgents
 
 ## product_competitor_agent
