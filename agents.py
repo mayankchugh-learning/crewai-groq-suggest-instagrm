@@ -3,20 +3,22 @@ from textwrap import dedent
 from crewai import Agent
 from langchain_groq import ChatGroq
 from langchain_openai import ChatOpenAI
+from langchain.llms import Ollama
 from tools.search_tools import SearchTools
 
 
 class MarketingAnalysisAgents:
     def __init__(self):
+        self.llm = Ollama(model="mistral")
         # self.llm = ChatGroq(
         #     api_key=os.getenv("GROQ_API_KEY"),
-        #     model="llama3-70b-8192"
+        #     model= "llama2" #"llama3-70b-8192"
         # )
-        self.llm = ChatOpenAI(
-            model="crewai-llama3-8b",
-            base_url="http://localhost:11434/v1",
-            api_key="NA"
-        )
+        # self.llm = ChatOpenAI(
+        #     model="crewai-llama3-8b",
+        #     base_url="http://localhost:11434/v1",
+        #     api_key="NA"
+        # )
 
     def product_competitor_agent(self):
         return Agent(
@@ -35,7 +37,7 @@ class MarketingAnalysisAgents:
             allow_delegation=False,
             llm=self.llm,
             verbose=True,
-            max_rpm=2
+            max_rpm=5
         )
 
     def strategy_planner_agent(self):
@@ -54,7 +56,7 @@ class MarketingAnalysisAgents:
             ],
             llm=self.llm,
             verbose=True,
-            max_rpm=2
+            max_rpm=5
         )
 
     def creative_content_creator_agent(self):
@@ -77,7 +79,7 @@ class MarketingAnalysisAgents:
             ],
             llm=self.llm,
             verbose=True,
-            max_rpm=2
+            max_rpm=5
         )
 
     def senior_photographer_agent(self):
@@ -98,7 +100,7 @@ class MarketingAnalysisAgents:
             llm=self.llm,
             allow_delegation=False,
             verbose=True,
-            max_rpm=2
+            max_rpm=5
         )
 
     def chief_creative_diretor_agent(self):
@@ -120,5 +122,5 @@ class MarketingAnalysisAgents:
             ],
             llm=self.llm,
             verbose=True,
-            max_rpm=2
+            max_rpm=5
         )

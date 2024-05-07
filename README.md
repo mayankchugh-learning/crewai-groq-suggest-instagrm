@@ -51,8 +51,8 @@ This project is released under the MIT License.
 - Ollama 
     - command to install on linux: curl -fsSL https://ollama.com/install.sh | sh
     - start Server:  ollama serve 
-    - on new tab: ollama run mistral
-    - 
+    - on new tab: ollama run llama3:8b
+    - To create model from modelfile: ollama create crewai-llama3-8b -f ./Modelfile
 
 
 ### Installation
