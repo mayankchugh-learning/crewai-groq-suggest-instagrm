@@ -239,6 +239,8 @@ The MarketingAnalysisTasks are a set of tasks that are executed by the Marketing
   - an bearded old man in the snows, using very warm clothing, with mountains full of snow behind him, soft lighting, 4k, crisp, close up to the camera
 * Your final answer must be 3 reviewed options of photographs, each with 1 paragraph description following the examples provided above.
 
+[![](https://mermaid.ink/img/pako:eNqFVEFugzAQ_Irlc_MBDpWi5FKpkaIkN6jQFm_AChjLmFQoyt-72ECsQlKfYGaHHY8X33hWC-QRzw3ogn0eEsVoNe23B3ZgLmilytcKyq6RzTpHZRtf1S9tatFmNs3qSlOhrU0KfUm89wTbTARz2q-HtrEGLOZdqktQCkflcYDZ3sMzXWYQrLwiNVWWqNQBU-fNQFNrR7ONp-f9UUlS6aK2tdvuw4Jj2D5g5i4Kied08iKkwcBDT7LJyZbI7K8FVCJR_-V9guayEDcM9BTzWB8aDI5kLA9PY0EBlQaZq1TgFctaV24rA8i2DzDQSNVYIPNVCoIORHfxx4iwtaAz0F1QbeGCQeCppe3FJwKDrFm_50Bj8Crxx6vig3vx1fMcn00jW63eZ9kN0S8OoRMsxeFFryfQiWe5DO2ezZwTLcUzdHwxbU4apsTfeIWmAinoz771H0i4LbDChEf0KGjIEp6oO9VBa-tjpzIeWdPiG2-1oDi20lnn0RnKhlAUfZY7f1W4G-P-C2gTgno?type=png)](https://mermaid.live/edit#pako:eNqFVEFugzAQ_Irlc_MBDpWi5FKpkaIkN6jQFm_AChjLmFQoyt-72ECsQlKfYGaHHY8X33hWC-QRzw3ogn0eEsVoNe23B3ZgLmilytcKyq6RzTpHZRtf1S9tatFmNs3qSlOhrU0KfUm89wTbTARz2q-HtrEGLOZdqktQCkflcYDZ3sMzXWYQrLwiNVWWqNQBU-fNQFNrR7ONp-f9UUlS6aK2tdvuw4Jj2D5g5i4Kied08iKkwcBDT7LJyZbI7K8FVCJR_-V9guayEDcM9BTzWB8aDI5kLA9PY0EBlQaZq1TgFctaV24rA8i2DzDQSNVYIPNVCoIORHfxx4iwtaAz0F1QbeGCQeCppe3FJwKDrFm_50Bj8Crxx6vig3vx1fMcn00jW63eZ9kN0S8OoRMsxeFFryfQiWe5DO2ezZwTLcUzdHwxbU4apsTfeIWmAinoz771H0i4LbDChEf0KGjIEp6oO9VBa-tjpzIeWdPiG2-1oDi20lnn0RnKhlAUfZY7f1W4G-P-C2gTgno)
+
                                       +-----------------------+
                                       |  MarketingAnalysis    |
                                       |  Agents                |
